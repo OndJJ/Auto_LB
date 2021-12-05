@@ -6,6 +6,7 @@
 
 MongoDB를 제거하고 오직 서버로만 구동되게 수정 하는 작업을 진행 했다.
 
+![66](https://user-images.githubusercontent.com/86146128/144737726-b6b14b9b-a081-4c4d-b064-cb4a87211481.png)
 
 
 https://github.com/visipedia/annotation_tools
